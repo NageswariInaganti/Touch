@@ -1,6 +1,6 @@
 import { View,Text,ScrollView,Image ,Button} from "react-native"
 import { NavigationContainer } from '@react-navigation/native'
-import { createBottomTabNavigator } from '@react-navigation/native-stack'
+import { createBottomTabNavigator } from '@react-navigation/bottom-tabs'
 import { Ionicons } from '@expo/vector-icons';
 
 const list=[
